@@ -56,7 +56,7 @@ output: index.html
 
 --
 
-###雖然是makedown 卻用一大堆html語法
+###雖然是markdown 卻用一大堆html語法
 * 第一點
 * 第二點
   * sub 點
